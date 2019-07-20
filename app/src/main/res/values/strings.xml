@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="previous_step">previous step</string>
+    <string name="next_step">next step</string>
+    <string name="ingredients_masterlist_textview">Recipe Ingredients</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="image_that_describe_a_certain_recipe_step">image that descripe a certain recipe step</string>
+    <string name="ingredents">ingredents</string>
+</resources>
